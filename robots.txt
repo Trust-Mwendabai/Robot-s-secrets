@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /csa-hidden-vault-99/
+
+# Note to Admin: Ensure the flag in the hidden vault is updated weekly.
